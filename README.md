@@ -17,7 +17,7 @@ Welcome to TaskFlowX, a cutting-edge task management solution designed to help i
 
 ---
 
-## 🎨 UI/UX Preview
+## UI/UX Preview
 
 ![TaskFlowX Preview](https://github.com/Syntaxpert/public-images4/blob/main/screenshot-127_0_0_1_5500-2024_08_20-18_40_51.png?raw=true)  <!-- Replace with actual image link -->
 
