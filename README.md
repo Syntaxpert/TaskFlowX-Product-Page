@@ -17,12 +17,6 @@ Welcome to TaskFlowX, a cutting-edge task management solution designed to help i
 
 ---
 
-## 🖥️ Meet Figure: The Future of Productivity
-
-Explore "Figure," the AI robot integrated with TaskFlowX that brings automation and efficiency to your projects. Figure revolutionizes how tasks and workflows are managed, making your productivity effortless.
-
----
-
 ## 🎨 UI/UX Preview
 
 ![TaskFlowX Preview](https://via.placeholder.com/800x450)  <!-- Replace with actual image link -->
@@ -31,13 +25,23 @@ Take a sneak peek at the elegant and minimalistic user interface of TaskFlowX. D
 
 ---
 
-## 🚀 Get Started
+## 🛠️ Technologies Used
 
-Interested in trying out TaskFlowX? Sign up for updates and be the first to know when our product launches!
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 
-```html
-<form action="https://www.figure.ai/">
-    <label for="email">Sign up for updates:</label>
-    <input id="email" type="email" name="email" placeholder="Enter your email">
-    <input id="submit" type="submit" value="Sign Up">
-</form>
+---
+
+## 🚀 Getting Started
+
+To clone this project and run it locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/TaskFlowX.git
+
+# Navigate to the project directory
+cd TaskFlowX
+
+# Open index.html in your browser
+open index.html
