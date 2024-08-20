@@ -38,7 +38,7 @@ To clone this project and run it locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/TaskFlowX.git
+git clone https://github.com/Syntaxpert/TaskFlowX.git
 
 # Navigate to the project directory
 cd TaskFlowX
