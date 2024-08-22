@@ -1,7 +1,5 @@
 # TaskFlowX
 
-![TaskFlowX Logo](https://github.com/Syntaxpert/public-images3/blob/main/image_123650291%20(3).JPG?raw=true)
-
 **Streamline Your Productivity with TaskFlowX**
 
 Welcome to TaskFlowX, a fictional task management solution designed to help individuals and teams achieve peak productivity. TaskFlowX is a demo project that showcases front-end development and UI/UX design skills, integrating advanced features to optimize workflow and collaboration in a sleek, user-friendly interface.
