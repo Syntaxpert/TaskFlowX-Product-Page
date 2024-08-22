@@ -17,7 +17,7 @@ Welcome to TaskFlowX, a fictional task management solution designed to help indi
 
 ## UI/UX Preview
 
-![TaskFlowX Preview](https://github.com/Syntaxpert/public-images4/blob/main/screenshot-127_0_0_1_5500-2024_08_20-18_40_51.png?raw=true)
+![TaskFlowX Preview](https://github.com/Syntaxpert/public-images4/blob/main/screenshot-127_0_0_1_5500-2024_08_22-18_37_26.png?raw=true)
 
 Take a sneak peek at the elegant and minimalistic user interface of TaskFlowX. Designed with user experience in mind, every element is crafted to enhance the productivity journey.
 
