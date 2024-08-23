@@ -6,6 +6,12 @@ Welcome to TaskFlowX, a fictional task management solution designed to help indi
 
 ---
 
+## ⚠️ Disclaimer
+
+**Note:** TaskFlowX is a project created for educational and demonstration purposes only. It is not a real product and should not be used for actual task management or collaboration.
+
+---
+
 ## ✨ Features
 
 - **Real-time Collaboration**: Demonstrates how teams can collaborate seamlessly.
